@@ -1,0 +1,7 @@
+{
+  "name": "testPlugin_Final",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
